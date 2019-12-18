@@ -1,1 +1,1 @@
-{"name":"飞云音乐APP","short_name":"飞云音乐","start_url":".","display":"standalone","background_color":"#fff","description":"A simple music app.","icons":[{"src":"/yx/MusicApp/public/favicon.png","sizes":"144x144","type":"image/png"}]}
+{"name":"飞云音乐APP","short_name":"飞云音乐","start_url":".","display":"standalone","background_color":"#fff","description":"A simple music app.","icons":[{"src":"/yx/MusicApp/favicon.png","sizes":"144x144","type":"image/png"}]}
