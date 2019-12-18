@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/yx/MusicApp/precache-manifest.198a5c5418bd560092a655aa83424ddb.js"
+  "/yx/MusicApp/precache-manifest.6b8bfcf02b5e6ebb6a6e2dfe12efb783.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "music-yx"});
